@@ -31,7 +31,6 @@ Ce dépôt est organisé comme suit :
 ### Contenu des dossiers
 
 * **`documentation/`** :
-    * `Cahier_des_Charges_Menu_Maker.pdf`
     * `Specifications_Fonctionnelles.pdf`
     * `Modele_de_Donnees_MCD.png`
     * `Diaporama.pdf`
