@@ -33,6 +33,7 @@ Ce dépôt est organisé comme suit :
 * **`documentation/`** :
     * `Specifications_Fonctionnelles.pdf`
     * `Modele_de_Donnees_MCD.png`
+    * `Schema-architecture.png`
     * `Diaporama.pdf`
 
 ---
